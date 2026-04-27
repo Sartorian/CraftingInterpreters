@@ -1,0 +1,1 @@
+A simple interpreter created by following the tutorial available at https://craftinginterpreters.com as a way to learn Swift.

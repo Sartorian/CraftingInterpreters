@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		B363AE082F9E54E100B4463B /* CraftingInterpreters */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CraftingInterpreters; sourceTree = BUILT_PRODUCTS_DIR; };
+		B363AE122F9E551400B4463B /* Interpreter */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Interpreter; path = CraftingInterpreters/Interpreter; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		B363ADFF2F9E54E100B4463B = {
 			isa = PBXGroup;
 			children = (
+				B363AE122F9E551400B4463B /* Interpreter */,
 				B363AE0A2F9E54E100B4463B /* CraftingInterpreters */,
 				B363AE092F9E54E100B4463B /* Products */,
 			);
