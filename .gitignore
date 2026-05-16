@@ -1,0 +1,9 @@
+.DS_Store
+CraftingInterpreters/Interpreter/.build/
+CraftingInterpreters/Interpreter/Package.resolved
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
